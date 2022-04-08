@@ -34,6 +34,7 @@ stakingPool
 * Moneypool
 * IncentivePool
 * StakingPool
+* StakingPoolV2 (no round)
 * Tokeninzer
 * AssetBond
 * ERC20
