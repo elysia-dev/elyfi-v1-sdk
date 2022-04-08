@@ -1,6 +1,6 @@
 import { Signer, Contract, ContractFactory } from "ethers";
 import { Provider } from "@ethersproject/providers";
-import type { StakingPool } from "../StakingPool";
+import type { StakingPool } from "../types/StakingPool";
 
 const _abi = [
   {

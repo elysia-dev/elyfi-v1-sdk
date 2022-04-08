@@ -1,6 +1,6 @@
 import { Signer, Contract, ContractFactory } from "ethers";
 import { Provider } from "@ethersproject/providers";
-import type { Tokenizer } from "../Tokenizer";
+import type { Tokenizer } from "../types/Tokenizer";
 
 const _abi = [
   {

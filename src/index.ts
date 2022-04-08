@@ -1,8 +1,8 @@
-export type { ERC20 } from "./ERC20";
-export type { IncentivePool } from "./IncentivePool";
-export type { AssetBond } from "./AssetBond";
-export type { MoneyPool } from "./MoneyPool";
-export type { Tokenizer } from "./Tokenizer";
+export type { ERC20 } from "./types/ERC20";
+export type { IncentivePool } from "./types/IncentivePool";
+export type { AssetBond } from "./types/AssetBond";
+export type { MoneyPool } from "./types/MoneyPool";
+export type { Tokenizer } from "./types/Tokenizer";
 
 export { AssetBondFactory } from "./factories/AssetBondFactory"
 export { ERC20Factory } from "./factories/ERC20Factory"

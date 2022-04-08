@@ -1,6 +1,6 @@
 import { Signer, Contract, ContractFactory } from "ethers";
 import { Provider } from "@ethersproject/providers";
-import type { AssetBond } from "../AssetBond";
+import type { AssetBond } from "../types/AssetBond";
 
 const _abi = [
   {

@@ -4,7 +4,7 @@ import {
   ContractFactory,
 } from "ethers";
 import { Provider } from "@ethersproject/providers";
-import type { MoneyPool } from "../MoneyPool";
+import type { MoneyPool } from "../types/MoneyPool";
 
 const _abi = [
   {
