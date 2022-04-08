@@ -1,5 +1,6 @@
 # elyfi-v1-sdk
-This packages basically made with type-chain
+The latest version of the SDK is used in production in the Elyfi web interface
+
 
 ## Quick Start
 
@@ -40,3 +41,6 @@ stakingPool
 Here's a link for contract addresses
 
 https://github.com/elysia-dev/elyfi-web/blob/main/src/core/envs/prod.json
+
+## Contribution
+If you have questions about how to use the SDK, please reach out in our Discord. Pull requests welcome!
