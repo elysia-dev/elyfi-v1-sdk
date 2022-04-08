@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "build:d": "cp src/types/*.d.ts dist"
+    "build:d": "cp src/types/*.d.ts dist/types/"
   },
   "devDependencies": {
     "@types/node": "^16.4.13",
