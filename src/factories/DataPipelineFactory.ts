@@ -207,7 +207,7 @@ const _abi = [
   },
 ];
 
-export class DataPipeline__factory extends ContractFactory {
+export class DataPipelineFactory extends ContractFactory {
   static connect(
     address: string,
     signerOrProvider: Signer | Provider
