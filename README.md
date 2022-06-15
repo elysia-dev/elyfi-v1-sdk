@@ -73,6 +73,7 @@ await withdrawTx.wait()
 
 ## Supported Contract
 * Moneypool
+* DataPipeline
 * IncentivePool
 * StakingPool
 * StakingPoolV2 (no round)
