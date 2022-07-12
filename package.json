@@ -1,9 +1,9 @@
 {
   "name": "@elysia-dev/elyfi-v1-sdk",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository":"https://github.com/elysia-dev/elyfi-v1-sdk",
+  "repository": "https://github.com/elysia-dev/elyfi-v1-sdk",
   "dependencies": {
     "ethers": "^5.6.2"
   },
