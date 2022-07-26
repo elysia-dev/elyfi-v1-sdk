@@ -1,9 +1,9 @@
 {
   "name": "@elysia-dev/elyfi-v1-sdk",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.9",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository":"https://github.com/elysia-dev/elyfi-v1-sdk",
+  "repository": "https://github.com/elysia-dev/elyfi-v1-sdk",
   "dependencies": {
     "ethers": "^5.6.2"
   },
@@ -15,5 +15,8 @@
     "@types/node": "^16.4.13",
     "ts-loader": "^9.2.5",
     "typescript": "^4.3.5"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
